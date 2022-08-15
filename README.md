@@ -1,5 +1,7 @@
 # vue-auth
 
+[Demo](https://faviolla.github.io/auth-vue/dist/index.html)
+
 ## Project setup
 ```
 npm install
